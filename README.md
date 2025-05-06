@@ -12,12 +12,12 @@ Daniele Sportillo \[[dsportil@mathworks.com](mailto:dsportil@mathworks.com)\]
 
 **Lessons:**
 
--  [Explore ROS2 Network in MATLAB](matlab: edit ROS2_Network) 
--  [Create Publishers and Subscribers](matlab: edit Alice) 
--  [Work with ROS Bags](matlab:edit ReadMessagesFromROS2BagLogFileExample) 
--  [Create Custom Messages](matlab: edit ROS2CustomMessagesExample) 
--  [Call and Provide ROS2 Services](matlab: edit CallAndProvideROS2ServicesExample) 
--  [Get Started with ROS2 in Simulink](matlab:edit GetStartedWithROS2InSimulinkExample) 
+-  [Explore ROS2 Network in MATLAB](./1_Basic/ROS2_Network.mlx) 
+-  [Create Publishers and Subscribers](./1_Basic/Alice.mlx) 
+-  [Work with ROS Bags](./2_ReadRosBags/ReadMessagesFromROS2BagLogFileExample.mlx) 
+-  [Create Custom Messages](./3_CustomMessages/ROS2CustomMessagesExample.mlx) 
+-  [Call and Provide ROS2 Services](./4_Services/CallAndProvideROS2ServicesExample.mlx) 
+-  [Get Started with ROS2 in Simulink](./5_Simulink/GetStarted/GetStartedWithROS2InSimulinkExample.mlx) 
 
 **Want to learn more?**
 
