@@ -1,0 +1,2 @@
+uint32 int_property
+string string_property
